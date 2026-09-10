@@ -1,0 +1,43 @@
+[
+  {
+    "job_id": "official-requisition-id",
+    "company": "Company name",
+    "industry": "Logistics/3PL",
+    "role": "Published job title",
+    "job_title": "Published job title",
+    "category": "Warehouse",
+    "subcategory": "Warehouse Operations",
+    "job_level": "Executive",
+    "experience": "1\u20133 Years",
+    "experience_min": 1,
+    "experience_max": 3,
+    "qualification": "Not specified",
+    "country": "India",
+    "state": "Maharashtra",
+    "district_city": "Pune",
+    "city": "Pune",
+    "taluka_tehsil": "Khed",
+    "industrial_area": "Chakan MIDC",
+    "midc_sez": "Chakan MIDC",
+    "exact_location": "Chakan, Pune, Maharashtra",
+    "work_mode": "On-site",
+    "employment_type": "Full-Time",
+    "posting_date": "2026-09-10",
+    "closing_date": "Not specified",
+    "key_skills": [
+      "WMS",
+      "Inventory",
+      "Warehouse Operations"
+    ],
+    "tools": [
+      "WMS"
+    ],
+    "description": "Paste or store the verified job description here.",
+    "application_priority": "Not specified",
+    "source_type": "Official",
+    "source_url": "https://official-career-page.example/job",
+    "official_apply_url": "https://official-career-page.example/job",
+    "current_status": "Verified Open",
+    "last_verified_date": "2026-09-10"
+  }
+]
